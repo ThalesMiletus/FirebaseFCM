@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseFCM</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <string name="my_notification_channel_id">my_channel_id</string>
+    <string name="my_notification_channel_name">my_channel_name</string>
+    <string name="my_notification_channel_description">my_channel_description</string>
+    <string name="notification_title">Title</string>>
+
+    <string name="used_tools_and_components">Used Tools and Components</string>
+
+    <string name="tools_and_components">
+        <li>NotificationManager</li>\n
+        <li>FirebaseMessagingService</li>\n
+    </string>
+
+</resources>
